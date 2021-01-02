@@ -1,5 +1,5 @@
 {
-    "name": "bradgarropy",
+    "name": "thewilloftheshadow",
     "version": "2.1.0",
     "description": "🃏 npx business card",
     "keywords": [
@@ -11,7 +11,7 @@
         "parcel",
         "business-card"
     ],
-    "homepage": "https://github.com/bradgarropy/business-card",
+    "homepage": "https://github.com/thewilloftheshadow/business-card",
     "bugs": {
         "url": "https://github.com/bradgarropy/business-card/issues"
     },
